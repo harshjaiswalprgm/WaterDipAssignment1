@@ -2,7 +2,7 @@
 
 This project is a **single-page dashboard** built using **React.js** to visualize hotel booking data. It provides four interactive charts, including a time series of visitors per day, a column chart of visitors by country, and two sparkline charts for adult and children visitors. The dashboard is also equipped with a **date range filter** to allow dynamic chart updates based on the selected date range.
 
-### Features
+## Features
 - **Date Range Filter:** Allows users to select a date range, dynamically updating all charts to reflect the filtered data.
 - **Time Series Chart:** Displays the total number of visitors (adults + children + babies) per day.
 - **Column Chart:** Shows the number of visitors from each country.
