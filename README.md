@@ -1,3 +1,5 @@
+![Screenshot 2024-10-14 232545](https://github.com/user-attachments/assets/c3867d4f-f8ad-4268-aa88-7b7f495ac2c9)
+
 ## Hotel Booking Dashboard
 
 This project is a **single-page dashboard** built using **React.js** to visualize hotel booking data. It provides four interactive charts, including a time series of visitors per day, a column chart of visitors by country, and two sparkline charts for adult and children visitors. The dashboard is also equipped with a **date range filter** to allow dynamic chart updates based on the selected date range.
