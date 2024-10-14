@@ -25,11 +25,14 @@ function App() {
       return date >= new Date(startDate) && date <= new Date(endDate);
     });
     setFilteredData(filtered);
+    
   };
 
   return (
     <div>
-      <h1>Hotel Booking Dashboard</h1>
+  
+   
+
       <input type="date" onChange={(e) => handleDateChange(e.target.value, dateRange.end)} />
       <input type="date" onChange={(e) => handleDateChange(dateRange.start, e.target.value)} />
       <TimeSeriesChart data={filteredData} />
